@@ -38,7 +38,7 @@ Challenges:
 Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='http://i.imgur.com/s34WhpW.gif' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/7CtCb2K.gif' width='' alt='Video Walkthrough' />
 
 Video Walkthrough
 
