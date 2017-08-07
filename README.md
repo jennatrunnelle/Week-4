@@ -28,17 +28,17 @@ Challenges:
 
 [ x] Required: Session Management Challenge 3
 
-[ x] Bonus: Cross Site Request Forgery
+[ x] Cross Site Request Forgery
 
-[  ] Bonus: CSRF 1
+[  ]CSRF 1
 
-[  ] Bonus: CSRF 2
+[  ] CSRF 2
 
 
 Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='URL GOES HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/s34WhpW.gif' width='' alt='Video Walkthrough' />
 
 Video Walkthrough
 
