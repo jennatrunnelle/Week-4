@@ -30,9 +30,9 @@ Challenges:
 
 [ x] Cross Site Request Forgery
 
-[  ]CSRF 1
+[ x ]CSRF 1
 
-[  ] CSRF 2
+[  ] bonus: CSRF 2
 
 
 Video Walkthrough
